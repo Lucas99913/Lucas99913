@@ -6,8 +6,8 @@ Hello! I'm Lucas Giorsetti, a passionate developer with a keen interest in techn
 
 ## Contact
 
-- **Email:** [Lucas.giorsetit@gmail.com]
-- **LinkedIn:** [www.linkedin.com/in/lucas-giorsetti-795198236]
+- **Email:** Lucas.giorsetit@gmail.com
+- **LinkedIn:** www.linkedin.com/in/lucas-giorsetti-795198236
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
