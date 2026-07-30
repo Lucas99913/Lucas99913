@@ -72,7 +72,7 @@ Web · Mobile · Product
 |:--|:--|:--|
 | Apr – Aug 2025 | Front-End Developer (Web & Mobile) | **Livtoo**, Marseille |
 | Jul – Oct 2022 | Junior Developer | **Winlink System** |
-| Jun 2023 – Jun 2024 | President | **Asso’M** — Epitech student association |
+| Jun 2023 – Jun 2024 | President | **Asso’M** — Association Marseillaise |
 
 **Livtoo** — Dating startup combining digital matchmaking with physical “Safe Place” venues.
 - Built the admin web app (dashboard, user management, moderation, analytics)
@@ -94,7 +94,7 @@ Web · Mobile · Product
 #### PulseTrack — MTB Suspension Telemetry
 **Epitech EIP (2025 – 2027)** · Co-founder
 
-Democratizing suspension telemetry for mountain bikers — pro-level data under €300 instead of €15k+ team budgets.
+Democratizing suspension telemetry for mountain bikers — pro-level data under €900 instead of €15k+ team budgets.
 
 - **Hardware** — ESP32 sensor on fork/shock (position, velocity, cycle count)
 - **Software** — Flutter app with real-time Bluetooth, session recording, GPS, and AI-driven setup recommendations
@@ -153,7 +153,7 @@ Democratizing suspension telemetry for mountain bikers — pro-level data under 
 |:--|:--|:--|
 | Avr. – Août 2025 | Développeur Front-End (Web & Mobile) | **Livtoo**, Marseille |
 | Juil. – Oct. 2022 | Développeur Junior | **Winlink System** |
-| Juin 2023 – Juin 2024 | Président | **Asso’M** — association étudiante Epitech |
+| Juin 2023 – Juin 2024 | Président | **Asso’M** — Association Marseillaise |
 
 **Livtoo** — Startup de rencontres alliant matchmaking digital et lieux physiques « Safe Place ».
 - Conception et développement de l’application web admin (dashboard, gestion utilisateurs, modération, analytics)
@@ -175,7 +175,7 @@ Democratizing suspension telemetry for mountain bikers — pro-level data under 
 #### PulseTrack — Télémétrie de suspension VTT
 **EIP Epitech (2025 – 2027)** · Co-fondateur
 
-Démocratiser la télémétrie de suspension pour les riders VTT — des données niveau pro à moins de 300 €, contre plus de 15 k€ pour les équipes professionnelles.
+Démocratiser la télémétrie de suspension pour les riders VTT — des données niveau pro à moins de 900 €, contre plus de 15 k€ pour les équipes professionnelles.
 
 - **Hardware** — Capteur ESP32 sur fourche/amortisseur (position, vitesse, cycles)
 - **Software** — App Flutter avec Bluetooth temps réel, enregistrement de sessions, GPS et recommandations de setup par IA
