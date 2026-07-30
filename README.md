@@ -5,7 +5,7 @@
 **Full Stack Developer** · Développeur Full Stack  
 Web · Mobile · Product
 
-[Portfolio](https://lucas99913.github.io/) · [LinkedIn](https://www.linkedin.com/in/lucas-giorsetti-795198236/) · [Email](mailto:lucas.giorsetti@gmail.com)
+[Portfolio](https://whoislucas.com) · [LinkedIn](https://www.linkedin.com/in/lucas-giorsetti-795198236/) · [Email](mailto:lucas.giorsetti@gmail.com)
 
 <br />
 
@@ -64,7 +64,7 @@ Web · Mobile · Product
 
 4th-year computer science student at **Epitech** (Grande École Program) and Full Stack developer with hands-on experience in web and mobile. Co-founder of **PulseTrack**, a connected sports hardware/software startup (Epitech EIP). Currently completing **McGill University’s Certificate in Business Management** — bridging technical execution with finance, marketing, and organizational strategy.
 
-> Explore my work on my [portfolio](https://lucas99913.github.io/) or connect on [LinkedIn](https://www.linkedin.com/in/lucas-giorsetti-795198236/).
+> Explore my work on my [portfolio](https://whoislucas.com) or connect on [LinkedIn](https://www.linkedin.com/in/lucas-giorsetti-795198236/).
 
 ### Experience
 
@@ -128,7 +128,7 @@ Democratizing suspension telemetry for mountain bikers — pro-level data under 
 
 | | |
 |:--|:--|
-| Portfolio | [lucas99913.github.io](https://lucas99913.github.io/) |
+| Portfolio | [whoislucas.com](https://whoislucas.com) |
 | LinkedIn | [lucas-giorsetti](https://www.linkedin.com/in/lucas-giorsetti-795198236/) |
 | Email | [lucas.giorsetti@gmail.com](mailto:lucas.giorsetti@gmail.com) |
 | Location | Marseille / Aix-en-Provence · Montréal |
@@ -145,7 +145,7 @@ Democratizing suspension telemetry for mountain bikers — pro-level data under 
 
 Étudiant en 4ᵉ année d’informatique à **Epitech** (Programme Grande École) et développeur Full Stack, avec une expérience concrète en développement web et mobile. Co-fondateur de **PulseTrack**, une startup hardware/software dédiée au sport connecté (EIP Epitech). Actuellement en **Certificate in Business Management à McGill University** — pour relier l’exécution technique à la finance, au marketing et à la stratégie organisationnelle.
 
-> Découvrez mon travail sur mon [portfolio](https://lucas99913.github.io/) ou connectez-vous sur [LinkedIn](https://www.linkedin.com/in/lucas-giorsetti-795198236/).
+> Découvrez mon travail sur mon [portfolio](https://whoislucas.com) ou connectez-vous sur [LinkedIn](https://www.linkedin.com/in/lucas-giorsetti-795198236/).
 
 ### Expérience
 
@@ -209,7 +209,7 @@ Démocratiser la télémétrie de suspension pour les riders VTT — des donnée
 
 | | |
 |:--|:--|
-| Portfolio | [lucas99913.github.io](https://lucas99913.github.io/) |
+| Portfolio | [whoislucas.com](https://whoislucas.com) |
 | LinkedIn | [lucas-giorsetti](https://www.linkedin.com/in/lucas-giorsetti-795198236/) |
 | Email | [lucas.giorsetti@gmail.com](mailto:lucas.giorsetti@gmail.com) |
 | Localisation | Marseille / Aix-en-Provence · Montréal |
